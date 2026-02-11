@@ -29,9 +29,9 @@ Este projeto implementa técnicas de reconciliação que impõem coerência com 
 ---
 
 ## Estrutura do Repositório
-base_forecast.R    # geração das previsões iniciais
-data_processing.R  # ingestão, limpeza e organização dos dados
-reconciliation.R   # aplicação dos métodos de reconciliação hierárquica
+- base_forecast.R    # geração das previsões iniciais
+- data_processing.R  # ingestão, limpeza e organização dos dados
+- reconciliation.R   # aplicação dos métodos de reconciliação hierárquica
 
-data_base/         # dados originais
-data_treated/      # bases tratadas e prontas para modelagem
+- data_base/         # dados originais
+- data_treated/      # bases tratadas e prontas para modelagem
