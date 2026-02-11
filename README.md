@@ -1,5 +1,5 @@
 # Previsão Hierárquica e Reconciliação de Séries Temporais
-
+---
 ## Objetivo
 Desenvolver e avaliar modelos de previsão para séries temporais organizadas em estruturas hierárquicas.
 O projeto busca produzir estimativas precisas nos níveis desagregados garantindo, ao mesmo tempo, coerência com os totais agregados.
@@ -10,6 +10,7 @@ O projeto busca produzir estimativas precisas nos níveis desagregados garantind
 Previsões feitas de forma independente em diferentes níveis de agregação normalmente não fecham entre si.
 Essa inconsistência gera dificuldades operacionais e reduz a confiabilidade para tomada de decisão.
 Este projeto implementa técnicas de reconciliação que impõem coerência com ganho de acurácia.
+
 ---
 
 ## Dados
